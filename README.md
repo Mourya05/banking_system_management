@@ -10,3 +10,5 @@ The program performs following tasks:
 6. Display all accounts
 
 The changes once made in the data during execution are stored in a binary file and remain even if the execution is complete.
+
+<!-- copilot-tick 2026-01-17T04:53:15.645Z -->
